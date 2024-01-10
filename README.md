@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## 🌈 Follow Me 
+<a href="https://armmy.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=Tistory&logoColor=white" > 
+</a>
+<a href="https://www.notion.so/5afcc0a4d76e4906ba127a17fa0ae682?pvs=4">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-flat-square&logo=Notion&logoColor=white" > 
+</a>
+
+
 ## 📚 Skills 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
@@ -38,11 +47,4 @@
     </div>
 </div>
 
-## 🌈 Follow Me 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://armmy.tistory.com/category)
-<a href="https://armmy.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=Tistory&logoColor=white" > 
-</a>
-<a href="https://www.notion.so/5afcc0a4d76e4906ba127a17fa0ae682?pvs=4">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-flat-square&logo=Notion&logoColor=white" > 
-</a>
+
