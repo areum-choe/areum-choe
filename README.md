@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 📚 Skills 📚
+## Skills 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
     <p><strong>Languages</strong></p>
@@ -32,6 +32,6 @@
     </div>
 </div>
 
-## 🌈 Follow Me 🌈
+## Follow Me 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme={dark})](https://armmy.tistory.com/category)
   
