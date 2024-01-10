@@ -29,13 +29,9 @@
     <p><strong>Other</strong></p>
     <div>
         <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-flat-square&logo=FileZilla&logoColor=black"> 
-
     </div>
 </div>
-#000000
-🌈 Follow Me 🌈https://armmy.tistory.com/category
 
-  <a href="https://armmy.tistory.com/category"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Vimeo&logoColor=white&link=https://armmy.tistory.com/category"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+## 🌈 Follow Me 🌈
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
   
