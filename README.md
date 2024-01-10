@@ -1,6 +1,6 @@
 ### Hi there 👋
 </p>
-📚 Skills 📚
+### 📚 Skills 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Languages -->
     <p><strong>Languages</strong></p>
