@@ -25,10 +25,15 @@
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-flat-square&logo=linux&logoColor=black"> 
     </div>
-      <!-- Other -->
-    <p><strong>Other</strong></p>
+      <!-- Tools -->
+    <p><strong>Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-flat-square&logo=FileZilla&logoColor=black"> 
+        <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-flat-square&logo=FileZilla&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-flat-square&logo=Visual Studio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-flat-square&logo=Visual Studio Code&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-flat-square&logo=Google Colab&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Pycharm-000000?style=for-flat-square&logo=Pycharm&logoColor=white"> 
+        #5C2D91 #F9AB00
     </div>
 </div>
 
