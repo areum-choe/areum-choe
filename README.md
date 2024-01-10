@@ -33,5 +33,5 @@
 </div>
 
 ## 🌈 Follow Me 🌈
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme={dark})](https://armmy.tistory.com/category)
   
