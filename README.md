@@ -29,7 +29,7 @@
     <p><strong>Other</strong></p>
     <div>
         <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-flat-square&logo=FileZilla&logoColor=black"> 
-      #BF0000
+
     </div>
 </div>
 
