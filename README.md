@@ -40,4 +40,6 @@
 
 ## 🌈 Follow Me 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://armmy.tistory.com/category)
-<img src="https://img.shields.io/badge/Notion-000000?style=for-flat-square&logo=Notion&logoColor=white" link="https://www.notion.so/5afcc0a4d76e4906ba127a17fa0ae682?pvs=4"> 
+<a href="https://www.notion.so/5afcc0a4d76e4906ba127a17fa0ae682?pvs=4">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-flat-square&logo=Notion&logoColor=white" > 
+</a>
