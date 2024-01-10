@@ -1,5 +1,5 @@
-👋hello!
-I am Areum who is interested in data analysis.
+👋 Hello!
+I am Areum Choi who is interested in data analysis.
 
 While majoring in data science in college, I gained knowledge of Python, R, and SQL, and am currently gaining practical experience as a data analyst.
 
