@@ -1,6 +1,11 @@
-### Hi there 👋
+👋hello!
+I am Areum who is interested in data analysis.
 
-## 🌈 Follow Me 
+While majoring in data science in college, I gained knowledge of Python, R, and SQL, and am currently gaining practical experience as a data analyst.
+
+I like analyzing and visualizing data in various ways and interpreting it in various ways.
+
+## 🤞 Follow Me 
 <a href="https://armmy.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=Tistory&logoColor=white" > 
 </a>
