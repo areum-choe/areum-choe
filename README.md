@@ -9,7 +9,7 @@ I like analyzing and visualizing data in various ways and interpreting it in var
 <a href="https://armmy.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=Tistory&logoColor=white" > 
 </a>
-<a href="[https://www.notion.so/5afcc0a4d76e4906ba127a17fa0ae682?pvs=4](https://remarkable-crepe-e41.notion.site/d62b61cb36504fa5afb163b08555b875?pvs=4)">
+<a href="https://www.notion.so/d62b61cb36504fa5afb163b08555b875?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-flat-square&logo=Notion&logoColor=white" > 
 </a>
 
